@@ -8,7 +8,7 @@ The goal of the Minesweeper AI is to identify each of the mines.
 
 Install requirements
 
-    pip install pygame
+    pip3 install pygame
 
 Run Command
 
